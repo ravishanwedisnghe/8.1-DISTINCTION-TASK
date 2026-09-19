@@ -10,16 +10,6 @@ This project uses machine learning to estimate house sale prices in Penrith, Lei
 - `requirements.txt` – required Python libraries
 - `sydney_three_suburbs_houses (1).csv` – property dataset
 
-## How to Run
-
-1. Download the project files.
-2. Install the required libraries:
-
-pip install -r requirements.txt
-
-3. Start the application:
-
-streamlit run app.py
 
 ## Important Note
 
